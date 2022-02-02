@@ -24,33 +24,33 @@ let handler  = async (m, { conn, usedPrefix }) => {
 
 
 ➥ ${namabot} Versi ${package.version}
-➥ *HomePage:* https://github.com/AlyaaXd
-➥ *Issue:* https://github.com/AlyaaXd
+➥ *HomePage:* https://github.com/Jarvis2301
+➥ *Issue:* https://github.com/Jarvis2301
 ➥ *Ping:* ${neww - old} *ms*
 ➥ *Total user:* ${totalreg} *user*
 ➥ *Uptime:* ${uptime}
 
 ═ 〘 DONASI 〙 ═
-➥ Pulsa : 6285730903853
-➥ Dana & OVO: 6285730903853
+➥ Pulsa : 083147787992
+➥ Dana & OVO: 083147787992
 
 
-➥ Request? https://github.com/AlyaaXd
+➥ Request? https://github.com/Jarvis2301
 
 Official Grup :
 
 Grup 1 :
-https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y
+https://chat.whatsapp.com/FZ8u1GjV88K3X9mFxtaQzZ
 
 Grup 2 :
-https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y
+https://chat.whatsapp.com/FZ8u1GjV88K3X9mFxtaQzZ
 
 Grup 3 :
-https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y
+https://chat.whatsapp.com/FZ8u1GjV88K3X9mFxtaQzZ
 
 
  ©BaseNew ${namabot}
- Script original by AlyaaXd
+ Script original by Katyusha
  
  
 ═〘 ${namabot} 〙 ═
