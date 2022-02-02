@@ -14,11 +14,11 @@
 gc1 = ''
 gc2 = ''
 gc3 = ''
-global.linkGC = ['https://chat.whatsapp.com/HJ9pD2XJ8vq7whuAYOvT1Y', ''] // ganti jadi group lu
-global.owner = ['085725924473'] // Put your number here //owner eval
-global.kontak = ['085725924473','0'] //Ketika ada yang ngetik #owner
+global.linkGC = ['https://chat.whatsapp.com/FZ8u1GjV88K3X9mFxtaQzZ', ''] // ganti jadi group lu
+global.owner = ['083147787992'] // Put your number here //owner eval
+global.kontak = ['083147787992','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['085725924473'] // Premium user has unlimited limit
+global.prems = ['083147787992'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -47,26 +47,26 @@ xteamkey = 'Dawnfrostkey'
 namaig = 'GAK ADA :)'
 namagithub = 'GAK ADA :)'
 kasihcaption = `Nih kak`
-namakontak1 = 'KAKA BOT'
-namakontak2 = 'KAKA BOT'
+namakontak1 = 'Katyusha'
+namakontak2 = 'Katyusha'
 
 //kasihcaption = `Nih Kak`
 
 // Sticker WM
-global.packname = 'By KAKA BOT' // ganti aja
-global.author = 'KAKA BOT' // ganti aja
+global.packname = 'By Katyusha' // ganti aja
+global.author = 'Katyusha' // ganti aja
 
 //yyy
-bc = 'AlyaaXzy' //KAKA BOT Broadcast
-footer = '\n©KAKA BOT'
-namabot = 'KAKA BOT'
-namalu = 'KAKA BOT'
+bc = 'Katyusha' //Katyusha BOT Broadcast
+footer = '\n©Katyusha BOT'
+namabot = 'Katyusha BOT'
+namalu = 'Katyusha BOT'
 
 
 // 
 wait = '_*Tunggu Sebentar...*_'
 global.wait = '_*Tunggu Sebentar...*_'
-global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FnNAbem8o6r4pgLhSdO8Q9'
+global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FZ8u1GjV88K3X9mFxtaQzZ'
 global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
 global.eror = '_*Server Error*_'
 
