@@ -15,10 +15,10 @@ gc1 = ''
 gc2 = ''
 gc3 = ''
 global.linkGC = ['https://chat.whatsapp.com/FZ8u1GjV88K3X9mFxtaQzZ', ''] // ganti jadi group lu
-global.owner = ['083147787992'] // Put your number here //owner eval
-global.kontak = ['083147787992','0'] //Ketika ada yang ngetik #owner
+global.owner = ['6283147787992'] // Put your number here //owner eval
+global.kontak = ['6283147787992','0'] //Ketika ada yang ngetik #owner
 global.mods = ['0'] // Want some help?
-global.prems = ['083147787992'] // Premium user has unlimited limit
+global.prems = ['6283147787992'] // Premium user has unlimited limit
 global.APIs = { // API Prefix
   // name: 'https://website'
   nrtm: 'https://nurutomo.herokuapp.com', 
@@ -60,14 +60,14 @@ global.author = 'Katyusha' // ganti aja
 bc = 'Katyusha' //Katyusha BOT Broadcast
 footer = '\n©Katyusha BOT'
 namabot = 'Katyusha BOT'
-namalu = 'Katyusha BOT'
+namalu = 'Katyusha'
 
 
 // 
-wait = '_*Tunggu Sebentar...*_'
-global.wait = '_*Tunggu Sebentar...*_'
+wait = '_*chotto matte kudasai ...*_'
+global.wait = '_*chotto matte kudasai ...*_'
 global.rpg = 'Fitur Rpg Dimatikan\nKetik *!enable* *rpg* untuk menggunakan fitur ini!\nKalo Mau main Disini aja\nhttps://chat.whatsapp.com/FZ8u1GjV88K3X9mFxtaQzZ'
-global.nsfw = 'Fitur NSFW Dimatikan\nKetik *!enable* *nsfw* untuk menggunakan fitur ini!\n“Katakanlah kepada orang laki-laki yang beriman: Hendaklah mereka menahan pandanganya, dan memelihara kemaluannya; … Katakanlah kepada wanita yang beriman: Hendaklah mereka menahan pandangannya, dan kemaluannya, dan janganlah mereka Menampakkan perhiasannya, kecuali yang (biasa) nampak dari padany,” \n(TQS. Al-Nur [24]: 30-31).'
+global.nsfw = 'Hoy Hoy Haram.'
 global.eror = '_*Server Error*_'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
