@@ -54,12 +54,12 @@ namakontak2 = 'Andry'
 
 // Sticker WM
 global.packname = 'By Andry' // ganti aja
-global.author = 'Andry-Bot' // ganti aja
+global.author = 'ᴀɴᴅʀʏ ʙᴏᴢᴛ' // ganti aja
 
 //yyy
-bc = 'Andry' //Andry BOT Broadcast
-footer = '\n©Andry BOT'
-namabot = 'Andry BOT'
+bc = 'ᴀɴᴅʀʏ' //ᴀɴᴅʀʏ ʙᴏᴢᴛ Broadcast
+footer = '\n©ᴀɴᴅʀʏ ʙᴏᴢᴛ'
+namabot = 'ᴀɴᴅʀʏ ʙᴏᴢᴛ'
 namalu = 'Andry'
 
 
